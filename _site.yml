@@ -1,0 +1,9 @@
+name: "The Educationist"
+output_dir:"docs"
+navbar:
+  title: "The Educationist"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
