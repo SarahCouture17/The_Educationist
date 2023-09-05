@@ -1,29 +1,4 @@
 ---
 title: "My Research"
-output: html_document
-date: "2023-09-05"
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+I will be researching the neuroendocrine neuronal pathways involved in vasopressin (VP) expression during dehydration prevention. Cactus mice can go their whole lives without drinking water, while us humans can start to get thirsty within hours. So how do they do it? Estrogen may be a factor. Estrogen plays a role in a diverse range of functions, and may contribute to vasopressin expression in the hypothalamus (amongst other places) in order to mediate the water reabsorption process, along with osmolality, fluid balance, and electrolyte homeostasis. ER beta and ER alpha are two huge factors in this process. The subfornical organ (SFO) and lamina terminalis (OVLT) express ER alpha and are strong candidates for mediating estrogen effects on osmotic regulation of VP secretion. ER alpha expressing neurons maintain fluid balance via expressing AT1 angiotensin receptors and SON/paraventricular nucleus (PVN) are responsive to relaxin which both stimulate VP secretion. ER beta in the supraoptic nucleus (SON) after 72 hour dehydration showed decreased expression of ER beta during dehydration or hypovolemia, which may contribute to the upregulation of VP secretion since ER bera mediates inhibition of VP release by estrogen.

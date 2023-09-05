@@ -8,9 +8,9 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Tips & Tricks"
-      href: Tips & Tricks.html
+      href: Tips&Tricks.html
     - text: "Research Tips"
-      href: Research Tips.html
+      href: ResearchTips.html
     - text: "My Research"
-      href: My Research.html
+      href: MyResearch.html
       
