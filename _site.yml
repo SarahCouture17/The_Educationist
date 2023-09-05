@@ -1,5 +1,5 @@
 name: "The Educationist"
-output_dir:"docs"
+output_dir: "docs"
 navbar:
   title: "The Educationist"
   left:
@@ -7,3 +7,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Tips & Tricks"
+      href: Tips & Tricks.html
+    - text: "Research Tips"
+      href: Research Tips.html
+    - text: "My Research"
+      href: My Research.html
+      
