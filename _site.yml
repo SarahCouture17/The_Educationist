@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Tips&Tricks"
+    - text: "TipsAndTricks"
       href: Tips&Tricks.html
     - text: "ResearchTips"
       href: ResearchTips.html
