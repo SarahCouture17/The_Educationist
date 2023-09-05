@@ -5,3 +5,12 @@ title: "The Educationist"
 Hello, Friends!!!
 
 Starting Graduate School can be scary, so come on over and venture to my new blogging webiste so that you don't have to ever feel alone with whatever you're going through educationally. From tips and tricks to how I am surviving Grad School, to how does one even start figuring out what they want to research, and how my research is progressing over time are the themes of this blog. So grab a chair, click around, and have no fear, The Educationist is here. 
+
+```{r}
+```
+
+
+```{r}
+# knitr::include_graphics("The Educationist.png")
+```
+
