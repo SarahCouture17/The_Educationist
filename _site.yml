@@ -7,10 +7,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Tips & Tricks"
+    - text: "Tips&Tricks"
       href: Tips&Tricks.html
-    - text: "Research Tips"
+    - text: "ResearchTips"
       href: ResearchTips.html
-    - text: "My Research"
+    - text: "MyResearch"
       href: MyResearch.html
       
